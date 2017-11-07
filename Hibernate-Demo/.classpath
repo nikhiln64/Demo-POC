@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/hibernate-core-4.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/Hibernate/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nikhiln64/Documents/Java Files/servlet-api-3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
